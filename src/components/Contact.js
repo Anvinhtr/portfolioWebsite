@@ -59,7 +59,7 @@ export const Contact = () => {
             <TrackVisibility>
               {({ isVisible }) =>
                 <div>
-                <h2>Get In Touch Through LinkedIn!</h2>
+                <h2>Get In Touch Through LinkedIn!!</h2>
                 <a href="https://www.linkedin.com/in/anvinhtr/" target="_blank"><img src={linked} alt="" /></a>
               </div>}
             </TrackVisibility>
